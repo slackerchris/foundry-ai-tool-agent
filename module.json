@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "authors": [
     {
-      "name": "Local Dev"
+      "name": "slackerchris"
     }
   ],
   "compatibility": {
@@ -18,5 +18,8 @@
   ],
   "styles": [
     "styles/tool-agent.css"
-  ]
+  ],
+  "url": "https://github.com/slackerchris/foundry-ai-tool-agent",
+  "manifest": "https://raw.githubusercontent.com/slackerchris/foundry-ai-tool-agent/main/module.json",
+  "download": "https://github.com/slackerchris/foundry-ai-tool-agent/archive/refs/heads/main.zip"
 }
