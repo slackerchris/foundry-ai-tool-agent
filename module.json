@@ -1,0 +1,22 @@
+{
+  "id": "ai-tool-agent-connector",
+  "title": "AI Tool Agent Connector",
+  "description": "Connects Foundry VTT to AI Tool Agent",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Local Dev"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/tool-agent.css"
+  ]
+}

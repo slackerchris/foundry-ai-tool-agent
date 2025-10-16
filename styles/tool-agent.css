@@ -1,0 +1,40 @@
+.ai-processing {
+  background: rgba(100, 150, 200, 0.1);
+  border-left: 3px solid #6496c8;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.ai-narrative {
+  background: rgba(0, 150, 100, 0.1);
+  border-left: 3px solid #009664;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.ai-narrative strong {
+  color: #009664;
+}
+
+.ai-commands {
+  background: rgba(200, 150, 0, 0.1);
+  border-left: 3px solid #c89600;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+.ai-commands code {
+  background: rgba(0, 0, 0, 0.2);
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+.ai-error {
+  background: rgba(200, 0, 0, 0.1);
+  border-left: 3px solid #c80000;
+  padding: 10px;
+  margin: 5px 0;
+  color: #c80000;
+}
